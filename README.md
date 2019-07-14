@@ -1,6 +1,6 @@
-# SCExAO software introduction
+# Computers
 
-SCExAO control involves 4 computes, each with its own repo:
+SCExAO control is distributed over 4 computers :
 
 
 Name            |  Description  
@@ -11,3 +11,6 @@ Name            |  Description
 [scexaoPROC](https://github.com/scexao-org/Data-Processing)  | Data processing
 
 
+# Public Webpage
+
+[Sources](https://github.com/scexao-org/scexaoWEB) for the [public scexao website](https://www.naoj.org/Projects/SCEXAO/).
